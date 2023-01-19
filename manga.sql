@@ -2,13 +2,10 @@
 INSERT INTO manga (id, name, volumes, mangaka, complete)
 
 VALUES
-    (011, "Dengeki Daisy", "1-8", "Kyousuke Motomi", false),
-    (012, "My Hero Academia", "1-8", "Kohei Horikoshi", false),
-    (013, "Maximum Ride", "1-4", "James Patterson", false),
-    (014, "Hana Kimi", "1-14", "Hisaya Nakajo", false),
-    (015, "Full Moon", "1", "Arina Tanemura", false),
-    (016, "Stepping on Roses", "1-2", "Rinko Ueda", false),
-    (017, "Skip Beat", "1-37", "Yoshiki Nakamura", false),
-    (018, "Boys Over Flowers", "35", "Yoko Kamio", false);
+    (019, "Fullmetal Alchemist", "1-3", "Hiromu Arakawa", false),
+    (020, "Beastars", "1-3", "Paru Itagaki", false),
+    (021, "Hellsing", "1-3", "Kouta Hirano", false),
+    (022, "Dr. Stone", "1-4", "Boichi, Riichiro Inagaki", false),
+    (023, "The Wolf Boy is Mine", "1", "Yoko Nogiri", false);
 
 SELECT * FROM manga;
